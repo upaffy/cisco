@@ -46,3 +46,5 @@
 * [Основные команды Cisco IOS](https://www.netwrix.com/cisco_commands_cheat_sheet.html)
 
 * [Большая книга по настройке оборудования Cisco](https://www.cisco.com/c/en/us/td/docs/ios/fundamentals/command/reference/cf_book.pdf)
+
+![alt text](screenshot/screen.png "схема виртуальной сети")​
